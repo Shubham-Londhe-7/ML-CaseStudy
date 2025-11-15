@@ -1,0 +1,10 @@
+# Diabetes Prediction ML Project - Requirements
+# Install all dependencies using:
+# pip install -r requirements.txt
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
